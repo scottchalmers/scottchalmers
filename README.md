@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AFrame, NFTs**
 
-- ⚡ Fun fact **When I have a problem, I don't limit myself to what I know, but search to learn how to resolve the problem.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/scott-chalmers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scott-chalmers" height="30" width="40" /></a>
