@@ -1,6 +1,14 @@
+<h1 align="center">Hi 👋, I'm Scott Chalmers</h1>
+<h3 align="center">Student and web developer</h3>
+
+- 🔭 I’m currently working on **WebVR website**
+
+- 🌱 I’m currently learning **AFrame, NFTs**
+
 # Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/scott-chalmers)
 [![LaBoiteFlexible Badge](https://img.shields.io/badge/-La%20Boîte%20Flexible-83b941?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABUJJREFUWEedl3molVUUxX+redAmSMjKJtMGKas/ygbNUgvFXpkNQhE0CxkEBalJZVY2kAYNBEVhUUEDRqYNVjYPRmEmQTaoZUaTjTa3Y1329zjv8973rm24f9zznbPP2tPa+4g2JSK2BcYAw4GDgN0Ar1nWAiuB94AXgfmSfmpHtXraFBEDgMuB04Ete9qf39cBDwIzJX3S3ZmWACJiK+AaYBKwaQsl/wDWsVGL738Cs4CrJP3ebE9TABGxN/A4MKjJoc+B6cAC4Nu8fAdgIHA4cBJwcO3cEq9L+qyubz0AEeH4PgPs2OTy94GRkr7uzq0RMQS4Dji62PcVMErS0vJsFwAR0R94vcXlTjBf/l07eRAR1n1BhmCLPGMQQyStqHR0AogIJ9jbLdz+TqJ3tm+QRMRQ4Elgmzz4rkMl6Q//LwHcBFzaRLvjvJ+kbzbo5mJzRLh0nwY2y+UZkqZ1AsikW9Yi2zs3/18APhcRFwO3pg5XxEBJqxoeiIi7gXNaXDBc0qL6t4joDVwBnAhsArwGzJZkF68nmROvAEfkx9skTVJEODZrANe95ceC4fy/f0kmqWg84JCZDUsu+Be406FsVvcRMQyojPE9OxmAGe6hvNwlYksuLEzoJ8m1b0/tD9yVVjwM3Ag4dJsDR6ZHzAXWMVbSekkbER8A1mPpMAArPD8XrgZcIvcWAAZJWhYRLqVPjRp4IoklImJX4G9JayLCoZgDTADeAoZV2V7pi4gZwNT8P9sA3gQOzYWRgNnq4wLAGEnzI2KPBOBPoyUtiAgDvwOw60+VNDdD+gXgHDlPkvOrUyLCDW1eLrxkAF+mVV7bBfB/e6FfbposaWZaZxJyzri2zQ3mDSeiqfsUSQ1DIuLVDNMcSWfVAHjvR7m2wgB+Abb2OaCXpHURcQ9wdm6aJ2lsKnbcT0sXXg+4RKdGxEQDkbRz7lsIHAs8IOnMGgD3jYpN19YB9Jb0a0SMAx7Lgz8DfZzVEWELTdXfA4Mlrc4cWAwsl3RUAjBtDwYa3qsB2D7Pe7kBYDXQNzftLmllRNgj5u1euW73PprKqyRyQrpjOuHcjjskLc5kNUBT+4GS3MDKHNiryLFGCGyRu5fleEnuhI7j/cAZub5Ikum0IRHRAZycHPC8vSXpt+LbXGCJJHuhi0TEaOCpXGwkobPYMbRMl3RlKnJdm7kqGSHJl7WUGtudK8m5VAfgNj05F2cZgFntkVxYKumAwtI3gMPy/yrgmFYjVkTsmc3MxriU95HkiahTEuCHObx4fawBOM6m4ireQyU1LE/qfKEYuZyQJhqXn11uKnZimt9NUJVMkOSKqVt/XHZFr5sl+1bNyPxd0a8vN4O5LA3C41ejdbYpbrsmqsb5wpsbJ/BqXHPjuqQCYJaza8zplosk3V4cdsKdkOO4Z7+qr5d3mA1t9cRmI3lEOO6Ov8VT8wCXcTmQXAtMyQ2eVmyF3V93o3vCvvlz+Zr/zZ4vl6NWzXq73vTrvZZpklzOXSYiW++SrFxkhhwn6bk2Xd90W0SMAFyW5haLe4/z7K8uAPwnIpxUzvwqobzJXrlFkl3ctkSEyclT0A1FyFxJngdNfg1pNpa7Vz9bsGOFeookP7u6lSw1W+1HTdVlfcYzhbmkakTNARSecC84pHabhwnTr0O1PEvJce1TPEycrO54pdjt40vLW3qg+hARznS32suAaq7vyQH17852NyO/ERsxr0s7j1PPBQbhtlq9hnsC8gNwH3BzM6vLwz0CKDzi7jYqn1t+vhnYdjlHeMD089wTsfNkYavHaB35f/jAEP12tBFVAAAAAElFTkSuQmCC)](https://www.laboiteflexible.com)
+[![ULaval Badge](https://img.shields.io/badge/-ULaval-ffc103?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAUNJREFUWEftl71KxEAUhc+dbOI2QkxExJ9gsa1YWAgW4htsZ+cLiL1WgpVYbOsTCFrvE7iVhU+ggkUMqOBmLVyLJDtXgopZk22G2N2phrnMOed+t5khFFZouW0o1S6e1b23UnW6iNfbH10qGjw2vCMoOq7bdExPj7aXs7eeBBACQkAICAEhIASEgBAQAkJgAoGZQyh18p/P8pHmzZUsvq4OYPsbIOTFsf9CbYGY+1YaBwvAR2WA3Dh0vEsC7dRm+ivEzHo/SAdnRe1Sp/fAVNPxDgDaBfNsOQgpEKbLlDgD470iODPoAaQ7QTK4+FufiJq/xlCqXwGqZfvrIJwDaOWCBHQ5wd4S+k9V5AjQk4gazzqy3TUmdcNA5CT26jxehiZjMw6Qm0WO39Wae0EWd0zMv+mZXgXChrvVzNK7OQyfTVU+Abmc7SE/DMLgAAAAAElFTkSuQmCC)](https://www.ulaval.ca/)
 
 # Support
 [![Bitcoin badge](https://img.shields.io/badge/Bitcoin-F8F5FA?style=for-the-badge&logo=Bitcoin&logoColor=white)](https://33mu1LsDdaCFVKjAQTjHT9rW65oQyKNfEM)
@@ -34,11 +42,12 @@
 [![Gatsby badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com)
 [![NextJS badge](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org)
 
-[![ badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![ badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Tailwind CSS badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Bootstrap badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
 [![Git badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com)
 [![Strapi badge](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=Strapi&logoColor=white)](https://strapi.io)
+[![Font Awesome badge](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=FontAwesome&logoColor=white)](https://aframe.io/)
 [![A-Frame badge](https://img.shields.io/badge/AFrame-EF2D5E?style=for-the-badge&logo=AFrame&logoColor=white)](https://aframe.io/)
 
 # Database
@@ -51,10 +60,3 @@
 [![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Unity badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
-
-<h1 align="center">Hi 👋, I'm Scott Chalmers</h1>
-<h3 align="center">Student and web developer</h3>
-
-- 🔭 I’m currently working on **WebVR website**
-
-- 🌱 I’m currently learning **AFrame, NFTs**
