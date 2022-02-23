@@ -13,13 +13,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 23 January, 2022 - To: 22 February, 2022
-
-TypeScript   2 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.50 % 
-Vue.js       2 hrs 19 mins   ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.98 % 
-JavaScript   1 hr 51 mins    ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.42 % 
-OCaml        1 hr 17 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.62 % 
-SCSS         12 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.50 % 
+TypeScript   2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 % 
+Vue.js       2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+JavaScript   1 hr 51 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
+OCaml        1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+SCSS         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
