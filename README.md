@@ -13,11 +13,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 % 
-Vue.js       2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-JavaScript   1 hr 51 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
-OCaml        1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-SCSS         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+From: 16 February, 2022 - To: 23 February, 2022
+
+JavaScript   4 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.95 % 
+TypeScript   2 hrs 42 mins   ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.97 % 
+Vue.js       2 hrs 35 mins   ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.09 % 
+OCaml        1 hr 34 mins    ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.76 % 
+JSON         16 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.19 % 
 ```
 <!--END_SECTION:waka-->
 
