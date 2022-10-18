@@ -5,9 +5,9 @@
 <h1 align="center" style="font-family:monospace">Hi 👋, I'm Scott Chalmers</h1>
 <h3 align="center">Student and web developer</h3>
 
-- 🔭 I’m currently working on a **NextJS** frontend with **Strapi** backend project
+- 🔭 I’m currently working on a **Clean Architecture** **ElectronJS** software with **React**
 
-- 🌱 I’m currently learning **Builder.IO integration**
+- 🌱 I’m currently learning **ElectronJS**
 
 - 💬 Ask me about **Storybook, Builder.IO, NextJS, Gatsby**
 
