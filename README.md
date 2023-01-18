@@ -1,13 +1,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/scott-chalmers)
-[![LaBoiteFlexible Badge](https://img.shields.io/badge/Web%20dev-La%20Boîte%20Flexible-83b941?style=?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABUJJREFUWEedl3molVUUxX+redAmSMjKJtMGKas/ygbNUgvFXpkNQhE0CxkEBalJZVY2kAYNBEVhUUEDRqYNVjYPRmEmQTaoZUaTjTa3Y1329zjv8973rm24f9zznbPP2tPa+4g2JSK2BcYAw4GDgN0Ar1nWAiuB94AXgfmSfmpHtXraFBEDgMuB04Ete9qf39cBDwIzJX3S3ZmWACJiK+AaYBKwaQsl/wDWsVGL738Cs4CrJP3ebE9TABGxN/A4MKjJoc+B6cAC4Nu8fAdgIHA4cBJwcO3cEq9L+qyubz0AEeH4PgPs2OTy94GRkr7uzq0RMQS4Dji62PcVMErS0vJsFwAR0R94vcXlTjBf/l07eRAR1n1BhmCLPGMQQyStqHR0AogIJ9jbLdz+TqJ3tm+QRMRQ4Elgmzz4rkMl6Q//LwHcBFzaRLvjvJ+kbzbo5mJzRLh0nwY2y+UZkqZ1AsikW9Yi2zs3/18APhcRFwO3pg5XxEBJqxoeiIi7gXNaXDBc0qL6t4joDVwBnAhsArwGzJZkF68nmROvAEfkx9skTVJEODZrANe95ceC4fy/f0kmqWg84JCZDUsu+Be406FsVvcRMQyojPE9OxmAGe6hvNwlYksuLEzoJ8m1b0/tD9yVVjwM3Ag4dJsDR6ZHzAXWMVbSekkbER8A1mPpMAArPD8XrgZcIvcWAAZJWhYRLqVPjRp4IoklImJX4G9JayLCoZgDTADeAoZV2V7pi4gZwNT8P9sA3gQOzYWRgNnq4wLAGEnzI2KPBOBPoyUtiAgDvwOw60+VNDdD+gXgHDlPkvOrUyLCDW1eLrxkAF+mVV7bBfB/e6FfbposaWZaZxJyzri2zQ3mDSeiqfsUSQ1DIuLVDNMcSWfVAHjvR7m2wgB+Abb2OaCXpHURcQ9wdm6aJ2lsKnbcT0sXXg+4RKdGxEQDkbRz7lsIHAs8IOnMGgD3jYpN19YB9Jb0a0SMAx7Lgz8DfZzVEWELTdXfA4Mlrc4cWAwsl3RUAjBtDwYa3qsB2D7Pe7kBYDXQNzftLmllRNgj5u1euW73PprKqyRyQrpjOuHcjjskLc5kNUBT+4GS3MDKHNiryLFGCGyRu5fleEnuhI7j/cAZub5Ikum0IRHRAZycHPC8vSXpt+LbXGCJJHuhi0TEaOCpXGwkobPYMbRMl3RlKnJdm7kqGSHJl7WUGtudK8m5VAfgNj05F2cZgFntkVxYKumAwtI3gMPy/yrgmFYjVkTsmc3MxriU95HkiahTEuCHObx4fawBOM6m4ireQyU1LE/qfKEYuZyQJhqXn11uKnZimt9NUJVMkOSKqVt/XHZFr5sl+1bNyPxd0a8vN4O5LA3C41ejdbYpbrsmqsb5wpsbJ/BqXHPjuqQCYJaza8zplosk3V4cdsKdkOO4Z7+qr5d3mA1t9cRmI3lEOO6Ov8VT8wCXcTmQXAtMyQ2eVmyF3V93o3vCvvlz+Zr/zZ4vl6NWzXq73vTrvZZpklzOXSYiW++SrFxkhhwn6bk2Xd90W0SMAFyW5haLe4/z7K8uAPwnIpxUzvwqobzJXrlFkl3ctkSEyclT0A1FyFxJngdNfg1pNpa7Vz9bsGOFeookP7u6lSw1W+1HTdVlfcYzhbmkakTNARSecC84pHabhwnTr0O1PEvJce1TPEycrO54pdjt40vLW3qg+hARznS32suAaq7vyQH17852NyO/ERsxr0s7j1PPBQbhtlq9hnsC8gNwH3BzM6vLwz0CKDzi7jYqn1t+vhnYdjlHeMD089wTsfNkYavHaB35f/jAEP12tBFVAAAAAElFTkSuQmCC)](https://www.laboiteflexible.com)
 [![BuyMeACoffee badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=BuyMeACoffee&logoColor=black)](https://www.buymeacoffee.com/scottchalmers)
 
 <h1 align="center" style="font-family:monospace">Hi 👋, I'm Scott Chalmers</h1>
-<h3 align="center">Student and web developer</h3>
+<h3 align="center">Web dev and Computer Analyst</h3>
 
-- 🔭 I’m currently working on a **Clean Architecture** **ElectronJS** software with **React**
+- 🔭 I’m currently working on a **NextJS** website feed with **Strapi**
 
-- 🌱 I’m currently learning **ElectronJS**
+- 🌱 I’m currently learning **Microsoft 365**
 
 - 💬 Ask me about **Storybook, Builder.IO, NextJS, Gatsby**
 
